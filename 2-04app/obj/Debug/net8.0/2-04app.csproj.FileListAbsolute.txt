@@ -1,0 +1,14 @@
+/home/illusionist/projects/csharp-solution/2-04app/bin/Debug/net8.0/2-04app
+/home/illusionist/projects/csharp-solution/2-04app/bin/Debug/net8.0/2-04app.deps.json
+/home/illusionist/projects/csharp-solution/2-04app/bin/Debug/net8.0/2-04app.runtimeconfig.json
+/home/illusionist/projects/csharp-solution/2-04app/bin/Debug/net8.0/2-04app.dll
+/home/illusionist/projects/csharp-solution/2-04app/bin/Debug/net8.0/2-04app.pdb
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/2-04app.GeneratedMSBuildEditorConfig.editorconfig
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/2-04app.AssemblyInfoInputs.cache
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/2-04app.AssemblyInfo.cs
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/2-04app.csproj.CoreCompileInputs.cache
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/2-04app.dll
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/refint/2-04app.dll
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/2-04app.pdb
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/2-04app.genruntimeconfig.cache
+/home/illusionist/projects/csharp-solution/2-04app/obj/Debug/net8.0/ref/2-04app.dll
