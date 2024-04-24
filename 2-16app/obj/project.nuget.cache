@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Aj1M+jLgJrV3DF2ZxyRuRaC7la4FRrftcn+8LByOa7pbxZDo4X9K9aFa6exubUd4/vBCMfyTU6rL6cmOtZUHA==",
+  "dgSpecHash": "JNbxV8cn/bqZdB6GB7UsXSD2VaATihf/TaD3MFxplrOvA81Y7qWtYhuZ+1qbS54SD4cnu8A5ejsoGu2LqJ0gWg==",
   "success": true,
-  "projectFilePath": "/home/illusionist/projects/csharp-solution/2-16app/2-16app.csproj",
+  "projectFilePath": "/home/ace/Projects/csharp-solution/2-16app/2-16app.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

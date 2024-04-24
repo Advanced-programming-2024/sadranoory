@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/illusionist/.nuget/packages/": {}
+    "/home/ace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/illusionist/projects/csharp-solution/2-11app/2-11app.csproj",
+      "projectUniqueName": "/home/ace/Projects/csharp-solution/2-11app/2-11app.csproj",
       "projectName": "2-11app",
-      "projectPath": "/home/illusionist/projects/csharp-solution/2-11app/2-11app.csproj",
-      "packagesPath": "/home/illusionist/.nuget/packages/",
-      "outputPath": "/home/illusionist/projects/csharp-solution/2-11app/obj/",
+      "projectPath": "/home/ace/Projects/csharp-solution/2-11app/2-11app.csproj",
+      "packagesPath": "/home/ace/.nuget/packages/",
+      "outputPath": "/home/ace/Projects/csharp-solution/2-11app/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/illusionist/.nuget/NuGet/NuGet.Config"
+        "/home/ace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/241/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

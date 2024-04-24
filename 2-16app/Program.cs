@@ -15,9 +15,11 @@ class Program
                 if (digit == 0 || num % digit != 0)
                 {
                     product = 0;
+                    Console.
                     break;
                 }
                 product *= digit;
+            
                 temp /= 10;
             }
 
