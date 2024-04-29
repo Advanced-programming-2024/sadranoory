@@ -1,0 +1,14 @@
+/home/ace/Projects/csharp-solution/4-01app/bin/Debug/net8.0/4-01app
+/home/ace/Projects/csharp-solution/4-01app/bin/Debug/net8.0/4-01app.deps.json
+/home/ace/Projects/csharp-solution/4-01app/bin/Debug/net8.0/4-01app.runtimeconfig.json
+/home/ace/Projects/csharp-solution/4-01app/bin/Debug/net8.0/4-01app.dll
+/home/ace/Projects/csharp-solution/4-01app/bin/Debug/net8.0/4-01app.pdb
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/4-01app.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/4-01app.AssemblyInfoInputs.cache
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/4-01app.AssemblyInfo.cs
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/4-01app.csproj.CoreCompileInputs.cache
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/4-01app.dll
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/refint/4-01app.dll
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/4-01app.pdb
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/4-01app.genruntimeconfig.cache
+/home/ace/Projects/csharp-solution/4-01app/obj/Debug/net8.0/ref/4-01app.dll
