@@ -1,0 +1,14 @@
+/home/ace/Projects/csharp-solution/5-06app/bin/Debug/net8.0/5-06app
+/home/ace/Projects/csharp-solution/5-06app/bin/Debug/net8.0/5-06app.deps.json
+/home/ace/Projects/csharp-solution/5-06app/bin/Debug/net8.0/5-06app.runtimeconfig.json
+/home/ace/Projects/csharp-solution/5-06app/bin/Debug/net8.0/5-06app.dll
+/home/ace/Projects/csharp-solution/5-06app/bin/Debug/net8.0/5-06app.pdb
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/5-06app.GeneratedMSBuildEditorConfig.editorconfig
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/5-06app.AssemblyInfoInputs.cache
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/5-06app.AssemblyInfo.cs
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/5-06app.csproj.CoreCompileInputs.cache
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/5-06app.dll
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/refint/5-06app.dll
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/5-06app.pdb
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/5-06app.genruntimeconfig.cache
+/home/ace/Projects/csharp-solution/5-06app/obj/Debug/net8.0/ref/5-06app.dll
